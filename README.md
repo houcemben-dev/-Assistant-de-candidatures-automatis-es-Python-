@@ -40,6 +40,5 @@ Certaines actions (pièces jointes, formulaires) ne sont volontairement pas auto
 
 
 👤 Auteur
-
 Benguermoud Houcem
 Formation Développeur en Intelligence Artificielle
