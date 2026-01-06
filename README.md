@@ -37,3 +37,9 @@ Il a été développé dans un objectif **concret et métier**, afin d’optimis
 - **Webbrowser** pour l’interaction contrôlée avec le navigateur
 
 Certaines actions (pièces jointes, formulaires) ne sont volontairement pas automatisées pour respecter les limites de sécurité et de conformité du web.
+
+
+👤 Auteur
+
+Benguermoud Houcem
+Formation Développeur en Intelligence Artificielle
